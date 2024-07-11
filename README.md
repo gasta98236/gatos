@@ -13,6 +13,9 @@ Dentro de VS code abrir una terminal y poner lo siguiente:
 
 # notas
 - El CreateArea.jsx es la parte de Mis Curiosidades 
+- Al utilizar el boton cupy en mis curiosidades, se copia el dato en el portapapeles.
+- Al utilizar el boton save en mis curiosidades, se guarda el dato en Mis curiosidades.
+- En mis curiosidades al darle al boton copiar, se copia toda la lista en el portapaples. 
 
 <p>
 Espero que les guste, un saludo.
